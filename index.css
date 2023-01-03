@@ -1,25 +1,31 @@
 * {
   padding: 0px;
   margin: 0px;
+  /* height: 100vh; */
   box-sizing: border-box;
+  /* border: 1px solid black; */
 }
+
 .heading {
   text-align: center;
   color: orangered;
-  margin: 20px;
+  padding: 20px;
+  border: 20px solid blueviolet;
 }
-.image {
-  height: 70vh;
-  width: 40vw;
+.img {
+  width: 100%;
+  border: 20px solid blueviolet;
 }
 .unordered-list {
   list-style-type: none;
   color: orangered;
   font-size: 20px;
-  /* margin-bottom: 20px; */
+  margin-bottom: 20px;
+  border: 20px solid blueviolet;
 }
 .li {
-  margin-bottom: 100px;
+  margin-bottom: 15px;
+  padding: 10px;
 }
 p {
   color: black;
