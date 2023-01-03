@@ -1,0 +1,23 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+.heading {
+  text-align: center;
+  color: orangered;
+  margin: 20px;
+}
+.image {
+  height: 70vh;
+  width: 40vw;
+}
+.unordered-list {
+  list-style-type: none;
+  color: orangered;
+  font-size: 20px;
+  /* margin-bottom: 20px; */
+}
+.li {
+  margin-bottom: 100px;
+}
